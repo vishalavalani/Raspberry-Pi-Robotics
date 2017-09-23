@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- inherit from the material theme -->
+  <style name="AppTheme" parent="android:Theme.Material.Light">
+    <!-- Main theme colors -->
+    <!--   your app branding color for the app bar -->
+    <item name="android:colorPrimary">#8BC34A</item>
+    <item name="android:colorPrimaryDark">#689F38</item>
+    <item name="android:textColorPrimary">#212121</item>
+    <item name="android:statusBarColor">#689F38</item>
+    <item name="android:navigationBarColor">#689F38</item>
+    <item name="android:colorAccent">#CDDC39</item>
+  </style>
+</resources>

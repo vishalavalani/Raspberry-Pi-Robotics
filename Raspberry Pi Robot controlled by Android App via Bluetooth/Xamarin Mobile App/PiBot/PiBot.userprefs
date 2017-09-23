@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{20A8BCD3-8320-4B05-96D0-23B7463C5AD9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PiBot/MainActivity.cs">
+    <Files>
+      <File FileName="PiBot/MainActivity.cs" Line="7" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PiBot AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="AppTheme" />
+  <MultiItemStartupConfigurations />
+</Properties>
